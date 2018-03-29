@@ -39,9 +39,9 @@ To review the contents of the policy and the other managed policies for AWS Code
 
 1. In the **Dashboard** navigation area, choose **Policies**, and then choose **Create Policy**\. 
 
-1. On the **Create Policy** page, next to **Copy an AWS Managed Policy**, choose **Select**\.
+1. On the **Create Policy** page, to the right of the **Visual Editor** and **JSON** tab, choose **Import managed policy**\.
 
-1. On the **Copy an AWS Managed Policy** page, type **AWSCodeCommitPowerUser** in the **Search Policies** search box\. Choose **Select** next to that policy name\.
+1. In the **Import managed policies** window, type **AWSCodeCommitPowerUser** in the **Search Policies** search box\. Select the radio button next to that policy and click **Import** at the bottom of the window\.
 
 1. On the **Review Policy** page, in **Policy Name**, type a new name for the policy \(for example, *AWSCodeCommitPowerUser\-MyDemoRepo*\)\.
 
